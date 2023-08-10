@@ -202,7 +202,7 @@
 }
 
 .card__title {
-  color: #fff;
+  color: rgb(255, 255, 255);
   font-size: 22px;
   font-style: normal;
   font-weight: 700;
